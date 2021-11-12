@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DongpingQ
-- 📫 https://people.cam.cornell.edu/dq48/
+- 📫 Here is my website: https://dongpingq.github.io/
 
 <!---
 DongpingQ/DongpingQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
